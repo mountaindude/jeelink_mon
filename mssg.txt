@@ -1,0 +1,2 @@
+Data entry into the jeelink database, energy table (JeeNode measurements from mains electricity meter) is overdue.
+
